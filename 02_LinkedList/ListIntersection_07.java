@@ -1,5 +1,5 @@
 public class ListIntersection_07 {
-    public class ListNode {
+    public static class ListNode {
         int val;
         ListNode next;
         ListNode(int x) {
